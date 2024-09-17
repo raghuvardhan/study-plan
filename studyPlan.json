@@ -1,0 +1,969 @@
+[
+    {
+        "date": "2023-09-18",
+        "sections": [
+            {
+                "title": "Topics",
+                "items": [
+                    { "text": "Two-pointer technique" },
+                    { "text": "Sliding window technique" }
+                ]
+            },
+            {
+                "title": "Resources",
+                "items": [
+                    {
+                        "text": "Sliding Window Tutorial by Nick White",
+                        "link": "https://www.youtube.com/watch?v=MK-NZ4hN7rs"
+                    },
+                    {
+                        "text": "Two-pointer Technique on GeeksforGeeks",
+                        "link": "https://www.geeksforgeeks.org/two-pointers-technique/"
+                    }
+                ]
+            },
+            {
+                "title": "Practice",
+                "items": [
+                    {
+                        "text": "Leetcode #3 - Longest Substring Without Repeating Characters",
+                        "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+                    },
+                    {
+                        "text": "Leetcode #76 - Minimum Window Substring",
+                        "link": "https://leetcode.com/problems/minimum-window-substring/"
+                    },
+                    {
+                        "text": "Leetcode #567 - Permutation in String",
+                        "link": "https://leetcode.com/problems/permutation-in-string/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2023-09-19",
+        "sections": [
+            {
+                "title": "Topics",
+                "items": [
+                    { "text": "Hash function" },
+                    { "text": "Collision resolution" },
+                    { "text": "Applications of hash tables" }
+                ]
+            },
+            {
+                "title": "Resources",
+                "items": [
+                    {
+                        "text": "Hash Tables Crash Course by CS Dojo",
+                        "link": "https://www.youtube.com/watch?v=shs0KM3wKv8"
+                    },
+                    {
+                        "text": "Hashing in Data Structures on GeeksforGeeks",
+                        "link": "https://www.geeksforgeeks.org/hashing-data-structure/"
+                    }
+                ]
+            },
+            {
+                "title": "Practice",
+                "items": [
+                    {
+                        "text": "Leetcode #1 - Two Sum",
+                        "link": "https://leetcode.com/problems/two-sum/"
+                    },
+                    {
+                        "text": "Leetcode #49 - Group Anagrams",
+                        "link": "https://leetcode.com/problems/group-anagrams/"
+                    },
+                    {
+                        "text": "Leetcode #128 - Longest Consecutive Sequence",
+                        "link": "https://leetcode.com/problems/longest-consecutive-sequence/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2023-09-20",
+        "sections": [
+            {
+                "title": "Topics",
+                "items": [
+                    { "text": "Tree traversals (preorder, inorder, postorder, level order)" },
+                    { "text": "Recursive and iterative implementations" }
+                ]
+            },
+            {
+                "title": "Resources",
+                "items": [
+                    {
+                        "text": "Binary Trees Tutorial by Jenny's Lectures",
+                        "link": "https://www.youtube.com/watch?v=fyE2Cg8o6W0"
+                    },
+                    {
+                        "text": "Tree Traversals on GeeksforGeeks",
+                        "link": "https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/"
+                    }
+                ]
+            },
+            {
+                "title": "Practice",
+                "items": [
+                    {
+                        "text": "Leetcode #94 - Binary Tree Inorder Traversal",
+                        "link": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+                    },
+                    {
+                        "text": "Leetcode #102 - Binary Tree Level Order Traversal",
+                        "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+                    },
+                    {
+                        "text": "Leetcode #104 - Maximum Depth of Binary Tree",
+                        "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2023-09-21",
+        "sections": [
+            {
+                "title": "Activities",
+                "items": [
+                    { "text": "Solve medium-level binary tree problems" }
+                ]
+            },
+            {
+                "title": "Practice",
+                "items": [
+                    {
+                        "text": "Leetcode #105 - Construct Binary Tree from Preorder and Inorder Traversal",
+                        "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+                    },
+                    {
+                        "text": "Leetcode #106 - Construct Binary Tree from Inorder and Postorder Traversal",
+                        "link": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+                    },
+                    {
+                        "text": "Leetcode #236 - Lowest Common Ancestor of a Binary Tree",
+                        "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2023-09-22",
+        "sections": [
+            {
+                "title": "Topics",
+                "items": [
+                    { "text": "Min-heap and max-heap" },
+                    { "text": "Heap operations (insert, delete)" },
+                    { "text": "Priority Queue applications" }
+                ]
+            },
+            {
+                "title": "Resources",
+                "items": [
+                    {
+                        "text": "Heaps and Priority Queues by Back To Back SWE",
+                        "link": "https://www.youtube.com/watch?v=t0Cq6tVNRBA"
+                    },
+                    {
+                        "text": "Heap Data Structure on GeeksforGeeks",
+                        "link": "https://www.geeksforgeeks.org/heap-data-structure/"
+                    }
+                ]
+            },
+            {
+                "title": "Practice",
+                "items": [
+                    {
+                        "text": "Leetcode #215 - Kth Largest Element in an Array",
+                        "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+                    },
+                    {
+                        "text": "Leetcode #347 - Top K Frequent Elements",
+                        "link": "https://leetcode.com/problems/top-k-frequent-elements/"
+                    },
+                    {
+                        "text": "Leetcode #703 - Kth Largest Element in a Stream",
+                        "link": "https://leetcode.com/problems/kth-largest-element-in-a-stream/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2023-09-25",
+        "sections": [
+            {
+                "title": "Activities",
+                "items": [
+                    { "text": "Solve medium-level heap problems" }
+                ]
+            },
+            {
+                "title": "Practice",
+                "items": [
+                    {
+                        "text": "Leetcode #295 - Find Median from Data Stream",
+                        "link": "https://leetcode.com/problems/find-median-from-data-stream/"
+                    },
+                    {
+                        "text": "Leetcode #373 - Find K Pairs with Smallest Sums",
+                        "link": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/"
+                    },
+                    {
+                        "text": "Leetcode #378 - Kth Smallest Element in a Sorted Matrix",
+                        "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2023-09-26",
+        "sections": [
+            {
+                "title": "Topics",
+                "items": [
+                    { "text": "Trie implementation" },
+                    { "text": "Applications in autocomplete and spell-check" }
+                ]
+            },
+            {
+                "title": "Resources",
+                "items": [
+                    {
+                        "text": "Tries Tutorial by Tushar Roy",
+                        "link": "https://www.youtube.com/watch?v=AXjmTQ8LEoI"
+                    },
+                    {
+                        "text": "Trie Data Structure on GeeksforGeeks",
+                        "link": "https://www.geeksforgeeks.org/trie-insert-and-search/"
+                    }
+                ]
+            },
+            {
+                "title": "Practice",
+                "items": [
+                    {
+                        "text": "Leetcode #208 - Implement Trie (Prefix Tree)",
+                        "link": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+                    },
+                    {
+                        "text": "Leetcode #211 - Design Add and Search Words Data Structure",
+                        "link": "https://leetcode.com/problems/add-and-search-word-data-structure-design/"
+                    },
+                    {
+                        "text": "Leetcode #212 - Word Search II",
+                        "link": "https://leetcode.com/problems/word-search-ii/"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "2023-09-27",
+        "sections": [
+            {
+                "title": "Activities",
+                "items": [
+                    { "text": "Solve medium-level trie problems" }
+                ]
+            },
+            {
+                "title": "Practice",
+                "items": [
+                    {
+                        "text": "Leetcode #648 - Replace Words",
+                        "link": "https://leetcode.com/problems/replace-words/"
+                    },
+                    {
+                        "text": "Leetcode #720 - Longest Word in Dictionary",
+                        "link": "https://leetcode.com/problems/longest-word-in-dictionary/"
+                    },
+                    {
+                        "text": "Leetcode #745 - Prefix and Suffix Search",
+                        "link": "https://leetcode.com/problems/prefix-and-suffix-search/"
+                    }
+                ]
+            }
+        ]
+    },
+   
+    {
+            "date": "2023-09-28",
+            "sections": [
+                {
+                    "title": "Topics",
+                    "items": [
+                        { "text": "Graph representations (adjacency list and matrix)" },
+                        { "text": "Depth-First Search (DFS)" },
+                        { "text": "Breadth-First Search (BFS)" }
+                    ]
+                },
+                {
+                    "title": "Resources",
+                    "items": [
+                        {
+                            "text": "Graphs for Beginners by freeCodeCamp",
+                            "link": "https://www.youtube.com/watch?v=gXgEDyodOJU"
+                        },
+                        {
+                            "text": "Graph Data Structure on GeeksforGeeks",
+                            "link": "https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #133 - Clone Graph",
+                            "link": "https://leetcode.com/problems/clone-graph/"
+                        },
+                        {
+                            "text": "Leetcode #200 - Number of Islands",
+                            "link": "https://leetcode.com/problems/number-of-islands/"
+                        },
+                        {
+                            "text": "Leetcode #797 - All Paths From Source to Target",
+                            "link": "https://leetcode.com/problems/all-paths-from-source-to-target/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-09-29",
+            "sections": [
+                {
+                    "title": "Topics",
+                    "items": [
+                        { "text": "Union-Find (Disjoint Set)" },
+                        { "text": "Union by rank" },
+                        { "text": "Path compression" }
+                    ]
+                },
+                {
+                    "title": "Resources",
+                    "items": [
+                        {
+                            "text": "Union-Find Algorithm by William Fiset",
+                            "link": "https://www.youtube.com/watch?v=wU6udHRIkcc"
+                        },
+                        {
+                            "text": "Disjoint Set Union (DSU) on GeeksforGeeks",
+                            "link": "https://www.geeksforgeeks.org/disjoint-set-data-structures/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #323 - Number of Connected Components in an Undirected Graph",
+                            "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/"
+                        },
+                        {
+                            "text": "Leetcode #547 - Number of Provinces",
+                            "link": "https://leetcode.com/problems/number-of-provinces/"
+                        },
+                        {
+                            "text": "Leetcode #684 - Redundant Connection",
+                            "link": "https://leetcode.com/problems/redundant-connection/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-02",
+            "sections": [
+                {
+                    "title": "Topics",
+                    "items": [
+                        { "text": "Recursion and Backtracking" },
+                        { "text": "Recursive problem-solving" },
+                        { "text": "Backtracking technique" }
+                    ]
+                },
+                {
+                    "title": "Resources",
+                    "items": [
+                        {
+                            "text": "Backtracking Explained by Abdul Bari",
+                            "link": "https://www.youtube.com/watch?v=pfiQ_PS1g8E"
+                        },
+                        {
+                            "text": "Recursion and Backtracking on GeeksforGeeks",
+                            "link": "https://www.geeksforgeeks.org/introduction-to-backtracking-data-structure-and-algorithm-tutorials/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #17 - Letter Combinations of a Phone Number",
+                            "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+                        },
+                        {
+                            "text": "Leetcode #22 - Generate Parentheses",
+                            "link": "https://leetcode.com/problems/generate-parentheses/"
+                        },
+                        {
+                            "text": "Leetcode #39 - Combination Sum",
+                            "link": "https://leetcode.com/problems/combination-sum/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-03",
+            "sections": [
+                {
+                    "title": "Activities",
+                    "items": [
+                        { "text": "Solve medium to hard backtracking problems" }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #46 - Permutations",
+                            "link": "https://leetcode.com/problems/permutations/"
+                        },
+                        {
+                            "text": "Leetcode #51 - N-Queens",
+                            "link": "https://leetcode.com/problems/n-queens/"
+                        },
+                        {
+                            "text": "Leetcode #79 - Word Search",
+                            "link": "https://leetcode.com/problems/word-search/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-04",
+            "sections": [
+                {
+                    "title": "Topics",
+                    "items": [
+                        { "text": "Quick Sort" },
+                        { "text": "Merge Sort" },
+                        { "text": "Time and space complexities" }
+                    ]
+                },
+                {
+                    "title": "Resources",
+                    "items": [
+                        {
+                            "text": "Sorting Algorithms by mycodeschool",
+                            "link": "https://www.youtube.com/watch?v=pkkFqlG0Hds"
+                        },
+                        {
+                            "text": "Sorting Techniques on GeeksforGeeks",
+                            "link": "https://www.geeksforgeeks.org/sorting-algorithms/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Implement quicksort and mergesort"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-05",
+            "sections": [
+                {
+                    "title": "Topics",
+                    "items": [
+                        { "text": "Sliding Window Technique" },
+                        { "text": "Fixed-size and dynamic-size windows" }
+                    ]
+                },
+                {
+                    "title": "Resources",
+                    "items": [
+                        {
+                            "text": "Sliding Window Technique on GeeksforGeeks",
+                            "link": "https://www.geeksforgeeks.org/window-sliding-technique/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #567 - Permutation in String",
+                            "link": "https://leetcode.com/problems/permutation-in-string/"
+                        },
+                        {
+                            "text": "Leetcode #643 - Maximum Average Subarray I",
+                            "link": "https://leetcode.com/problems/maximum-average-subarray-i/"
+                        },
+                        {
+                            "text": "Leetcode #1004 - Max Consecutive Ones III",
+                            "link": "https://leetcode.com/problems/max-consecutive-ones-iii/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-06",
+            "sections": [
+                {
+                    "title": "Topics",
+                    "items": [
+                        { "text": "Two-pointer technique" },
+                        { "text": "Applications in sorted arrays and linked lists" }
+                    ]
+                },
+                {
+                    "title": "Resources",
+                    "items": [
+                        {
+                            "text": "Two-pointer Technique by Abdul Bari",
+                            "link": "https://www.youtube.com/watch?v=-yj5N8TtHZE"
+                        }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #15 - 3Sum",
+                            "link": "https://leetcode.com/problems/3sum/"
+                        },
+                        {
+                            "text": "Leetcode #19 - Remove Nth Node From End of List",
+                            "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+                        },
+                        {
+                            "text": "Leetcode #75 - Sort Colors",
+                            "link": "https://leetcode.com/problems/sort-colors/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-09",
+            "sections": [
+                {
+                    "title": "Topics",
+                    "items": [
+                        { "text": "Divide and Conquer Algorithms" },
+                        { "text": "Applications in sorting and searching" }
+                    ]
+                },
+                {
+                    "title": "Resources",
+                    "items": [
+                        {
+                            "text": "Divide and Conquer Algorithm on GeeksforGeeks",
+                            "link": "https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Implement quicksort and mergesort"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-10",
+            "sections": [
+                {
+                    "title": "Topics",
+                    "items": [
+                        { "text": "Greedy Algorithms" },
+                        { "text": "Greedy choice property" },
+                        { "text": "Optimal substructure" }
+                    ]
+                },
+                {
+                    "title": "Resources",
+                    "items": [
+                        {
+                            "text": "Greedy Algorithms Explained by Michael Sambol",
+                            "link": "https://www.youtube.com/watch?v=mVd8Z7D2Y4U"
+                        },
+                        {
+                            "text": "Greedy Algorithms on GeeksforGeeks",
+                            "link": "https://www.geeksforgeeks.org/greedy-algorithms/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #55 - Jump Game",
+                            "link": "https://leetcode.com/problems/jump-game/"
+                        },
+                        {
+                            "text": "Leetcode #122 - Best Time to Buy and Sell Stock II",
+                            "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+                        },
+                        {
+                            "text": "Leetcode #435 - Non-overlapping Intervals",
+                            "link": "https://leetcode.com/problems/non-overlapping-intervals/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-11",
+            "sections": [
+                {
+                    "title": "Topics",
+                    "items": [
+                        { "text": "Dynamic Programming Introduction" },
+                        { "text": "Memoization vs. Tabulation" },
+                        { "text": "Overlapping subproblems" },
+                        { "text": "Optimal substructure" }
+                    ]
+                },
+                {
+                    "title": "Resources",
+                    "items": [
+                        {
+                            "text": "Dynamic Programming Beginner Tutorial by freeCodeCamp",
+                            "link": "https://www.youtube.com/watch?v=oBt53YbR9Kk"
+                        },
+                        {
+                            "text": "Dynamic Programming on GeeksforGeeks",
+                            "link": "https://www.geeksforgeeks.org/dynamic-programming/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #70 - Climbing Stairs",
+                            "link": "https://leetcode.com/problems/climbing-stairs/"
+                        },
+                        {
+                            "text": "Leetcode #198 - House Robber",
+                            "link": "https://leetcode.com/problems/house-robber/"
+                        },
+                        {
+                            "text": "Leetcode #213 - House Robber II",
+                            "link": "https://leetcode.com/problems/house-robber-ii/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-12",
+            "sections": [
+                {
+                    "title": "Topics",
+                    "items": [
+                        { "text": "Dynamic Programming Practice" }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #303 - Range Sum Query - Immutable",
+                            "link": "https://leetcode.com/problems/range-sum-query-immutable/"
+                        },
+                        {
+                            "text": "Leetcode #746 - Min Cost Climbing Stairs",
+                            "link": "https://leetcode.com/problems/min-cost-climbing-stairs/"
+                        },
+                        {
+                            "text": "Leetcode #121 - Best Time to Buy and Sell Stock",
+                            "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-13",
+            "sections": [
+                {
+                    "title": "Topics",
+                    "items": [
+                        { "text": "Dynamic Programming Medium Problems" }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #322 - Coin Change",
+                            "link": "https://leetcode.com/problems/coin-change/"
+                        },
+                        {
+                            "text": "Leetcode #518 - Coin Change 2",
+                            "link": "https://leetcode.com/problems/coin-change-2/"
+                        },
+                        {
+                            "text": "Leetcode #1143 - Longest Common Subsequence",
+                            "link": "https://leetcode.com/problems/longest-common-subsequence/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-16",
+            "sections": [
+                {
+                    "title": "Activities",
+                    "items": [
+                        { "text": "Solve medium to hard dynamic programming problems" }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #300 - Longest Increasing Subsequence",
+                            "link": "https://leetcode.com/problems/longest-increasing-subsequence/"
+                        },
+                        {
+                            "text": "Leetcode #416 - Partition Equal Subset Sum",
+                            "link": "https://leetcode.com/problems/partition-equal-subset-sum/"
+                        },
+                        {
+                            "text": "Leetcode #494 - Target Sum",
+                            "link": "https://leetcode.com/problems/target-sum/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-17",
+            "sections": [
+                {
+                    "title": "Topics",
+                    "items": [
+                        { "text": "Advanced Graph Algorithms" },
+                        { "text": "Dijkstra's Algorithm" },
+                        { "text": "Topological Sort" }
+                    ]
+                },
+                {
+                    "title": "Resources",
+                    "items": [
+                        {
+                            "text": "Dijkstra's Algorithm by Computerphile",
+                            "link": "https://www.youtube.com/watch?v=pVfj6mxhdMw"
+                        },
+                        {
+                            "text": "Topological Sorting on GeeksforGeeks",
+                            "link": "https://www.geeksforgeeks.org/topological-sorting/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #207 - Course Schedule",
+                            "link": "https://leetcode.com/problems/course-schedule/"
+                        },
+                        {
+                            "text": "Leetcode #210 - Course Schedule II",
+                            "link": "https://leetcode.com/problems/course-schedule-ii/"
+                        },
+                        {
+                            "text": "Leetcode #787 - Cheapest Flights Within K Stops",
+                            "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-18",
+            "sections": [
+                {
+                    "title": "Activities",
+                    "items": [
+                        { "text": "Solve medium-level graph problems" }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #261 - Graph Valid Tree",
+                            "link": "https://leetcode.com/problems/graph-valid-tree/"
+                        },
+                        {
+                            "text": "Leetcode #332 - Reconstruct Itinerary",
+                            "link": "https://leetcode.com/problems/reconstruct-itinerary/"
+                        },
+                        {
+                            "text": "Leetcode #399 - Evaluate Division",
+                            "link": "https://leetcode.com/problems/evaluate-division/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-19",
+            "sections": [
+                {
+                    "title": "Activities",
+                    "items": [
+                        { "text": "Mixed Practice (Solve random medium-level problems)" }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #560 - Subarray Sum Equals K",
+                            "link": "https://leetcode.com/problems/subarray-sum-equals-k/"
+                        },
+                        {
+                            "text": "Leetcode #581 - Shortest Unsorted Continuous Subarray",
+                            "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/"
+                        },
+                        {
+                            "text": "Leetcode #739 - Daily Temperatures",
+                            "link": "https://leetcode.com/problems/daily-temperatures/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-20",
+            "sections": [
+                {
+                    "title": "Activities",
+                    "items": [
+                        { "text": "Mixed Practice (Solve random medium-level problems)" }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #114 - Flatten Binary Tree to Linked List",
+                            "link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
+                        },
+                        {
+                            "text": "Leetcode #142 - Linked List Cycle II",
+                            "link": "https://leetcode.com/problems/linked-list-cycle-ii/"
+                        },
+                        {
+                            "text": "Leetcode #287 - Find the Duplicate Number",
+                            "link": "https://leetcode.com/problems/find-the-duplicate-number/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-23",
+            "sections": [
+                {
+                    "title": "Activities",
+                    "items": [
+                        { "text": "Timed Practice (Solve two medium problems in 1.5 hours)" }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #560 - Subarray Sum Equals K",
+                            "link": "https://leetcode.com/problems/subarray-sum-equals-k/"
+                        },
+                        {
+                            "text": "Leetcode #15 - 3Sum",
+                            "link": "https://leetcode.com/problems/3sum/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "2023-10-24",
+            "sections": [
+                {
+                    "title": "Activities",
+                    "items": [
+                        { "text": "Final Review and Hard Problems" },
+                        { "text": "Attempt one hard-level problem" },
+                        { "text": "Review weak areas" }
+                    ]
+                },
+                {
+                    "title": "Practice",
+                    "items": [
+                        {
+                            "text": "Leetcode #76 - Minimum Window Substring",
+                            "link": "https://leetcode.com/problems/minimum-window-substring/"
+                        },
+                        {
+                            "text": "Leetcode #239 - Sliding Window Maximum",
+                            "link": "https://leetcode.com/problems/sliding-window-maximum/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ,    
+    {
+        "date": "2023-10-27",
+        "sections": [
+            {
+                "title": "Activities",
+                "items": [
+                    { "text": "Attempt one hard-level problem" },
+                    { "text": "Review weak areas" }
+                ]
+            },
+            {
+                "title": "Practice",
+                "items": [
+                    {
+                        "text": "Leetcode #76 - Minimum Window Substring",
+                        "link": "https://leetcode.com/problems/minimum-window-substring/"
+                    },
+                    {
+                        "text": "Leetcode #239 - Sliding Window Maximum",
+                        "link": "https://leetcode.com/problems/sliding-window-maximum/"
+                    }
+                ]
+            }
+        ]
+    }
+]
