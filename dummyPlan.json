@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-09-18",
+        "sections": [
+            {
+                "title": "Topics",
+                "items": [
+                    { "text": "Introduction to .NET" },
+                    { "text": "C# Basics" }
+                ]
+            },
+            {
+                "title": "Resources",
+                "items": [
+                    {
+                        "text": ".NET Tutorial",
+                        "link": "https://docs.microsoft.com/en-us/dotnet/"
+                    }
+                ]
+            },
+            {
+                "title": "Practice",
+                "items": [
+                    { "text": "Build a simple console app" }
+                ]
+            }
+        ]
+    }
+]

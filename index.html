@@ -2,22 +2,57 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Study Plan App</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="styles.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
-        <h1>My Study Plan</h1>
+        <h1>My Study Plans</h1>
+
+        <!-- Navigation for selecting multiple plans -->
+        <nav id="menu">
+            <ul id="planMenu">
+                <!-- Dynamically populated menu items -->
+            </ul>
+        </nav>
+
+        <!-- Progress display -->
+        <div id="progressContainer">
+            <div id="progressText">Progress: <span id="progressPercent">0</span>%</div>
+            <div id="progressBar"><div id="progress"></div></div>
+        </div>
+
+        <!-- Navigation for dates -->
         <div class="navigation">
             <button id="prevDay">&larr; Previous Day</button>
             <span id="dateDisplay"></span>
             <button id="nextDay">Next Day &rarr;</button>
         </div>
+
         <div id="content">
             <!-- Study plan content will be injected here -->
         </div>
+
+        <button id="addTaskBtn">Add Task</button>
+
+        <!-- Add task form (hidden by default) -->
+        <div id="addTaskForm" class="hidden">
+            <h3>Add New Task</h3>
+            <label for="taskTitle">Title:</label>
+            <input type="text" id="taskTitle">
+            <label for="taskLink">Link (optional):</label>
+            <input type="url" id="taskLink">
+            <label for="taskSection">Section:</label>
+            <select id="taskSection">
+                <option value="topics">Topics</option>
+                <option value="resources">Resources</option>
+                <option value="practice">Practice</option>
+            </select>
+            <button id="submitTask">Submit Task</button>
+        </div>
     </div>
+
     <script src="script.js"></script>
 </body>
 </html>
